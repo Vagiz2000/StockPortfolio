@@ -1,0 +1,24 @@
+.topview { 
+  color: white; 
+  font-size: $font-size;
+  background-color: darken($base-color, 30%);
+}
+
+.imgAll {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  
+  
+}
+
+.imgSmall {
+  width: 35px;
+  height: 35px;
+}
+
+.imgBig {
+  width: 60%;
+  height: 100%; 
+}
