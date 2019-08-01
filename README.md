@@ -2,10 +2,7 @@
 
 #server prerequisites
 
-Install Sencha Cmd https://www.sencha.com/products/extjs/cmd-download/
-
 npm install
-
 
 #server start  (default 8081 port)
 
